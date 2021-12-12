@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.dariachembrovskaya.vendorcabinetplugin.services
 
+import com.github.dariachembrovskaya.vendorcabinetplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
